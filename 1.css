@@ -1,0 +1,512 @@
+.mediaViewInfo {
+	--web-view-name: Splash page secondary;
+	--web-view-id: Splash_page_secondary;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Splash_page_secondary;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Splash_page_secondary {
+	position: absolute;
+	width: 1920px;
+	height: 1083px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Splash page secondary;
+	--web-view-id: Splash_page_secondary;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_7_bn {
+	fill: rgba(8,8,8,1);
+}
+.Rectangle_7_bn {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1083px;
+	left: 0px;
+	top: 0px;
+}
+#backround_bo {
+	position: absolute;
+	width: 2054.18px;
+	height: 1773.2px;
+	left: -130px;
+	top: -243px;
+	overflow: visible;
+}
+#Layer_0_bp {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 131.413px;
+	top: 245.271px;
+	overflow: visible;
+}
+#Color_Fill_1_bq {
+	fill: rgba(0,0,0,1);
+}
+.Color_Fill_1_bq {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 131.413px;
+	top: 245.271px;
+}
+#licking_backround__br {
+	opacity: 0.09;
+	position: absolute;
+	width: 2054.18px;
+	height: 1773.2px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Background_bs {
+	position: absolute;
+	width: 1926.529px;
+	height: 1078.616px;
+	left: 127.652px;
+	top: 245.685px;
+	overflow: visible;
+}
+#Color_Fill_1_bt {
+	fill: rgba(46,46,46,1);
+}
+.Color_Fill_1_bt {
+	position: absolute;
+	overflow: visible;
+	width: 1926.529px;
+	height: 1078.616px;
+	left: 127.652px;
+	top: 245.685px;
+}
+#Layer_2_bu {
+	opacity: 0.878;
+	mix-blend-mode: overlay;
+	position: absolute;
+	width: 1936.516px;
+	height: 1324.301px;
+	left: 117.665px;
+	top: 0px;
+	overflow: visible;
+}
+#FRIED_LOBSTER_bv {
+	left: 168.621px;
+	top: 243.182px;
+	position: absolute;
+	overflow: visible;
+	width: 692.169px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#SIDES_bw {
+	left: 176.242px;
+	top: 745.444px;
+	position: absolute;
+	overflow: visible;
+	width: 167.852px;
+	height: 175.9583740234375px;
+	line-height: 85px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 71px;
+	color: rgba(255,255,255,1);
+}
+#DRINKS_bz {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,-158.3811,168.4628) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 347.207px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#FROZEN_by {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,1074.038,479.0643) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 347.207px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#FRIES_bz {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,473.6304,128.6915) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 257.677px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#FINGALICKING_b {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,405.5472,168.7955) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 578.724px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#STEAK_b {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,1397.2282,169.8409) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 273.21px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#CHICKEN_TENDERS_FRIES_b {
+	left: 1011.815px;
+	top: 276.37px;
+	position: absolute;
+	overflow: visible;
+	width: 1028.128px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#SEAFOOD_b {
+	left: 1011.815px;
+	top: 719.669px;
+	position: absolute;
+	overflow: visible;
+	width: 1028.128px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#MIRAMAR_caa {
+	left: 356.656px;
+	top: 736.647px;
+	position: absolute;
+	overflow: visible;
+	width: 388.612px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#MORE_WINGSSSSSSSSS_caa {
+	left: 1183.795px;
+	top: 1048.318px;
+	position: absolute;
+	overflow: visible;
+	width: 617.87px;
+	height: 182.29852294921875px;
+	line-height: 89px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 74px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#YUMMMMM_caa {
+	left: 285.747px;
+	top: 390.092px;
+	position: absolute;
+	overflow: visible;
+	width: 1028.128px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#WINGS_caa {
+	left: 168.897px;
+	top: 855.969px;
+	position: absolute;
+	overflow: visible;
+	width: 488.118px;
+	height: 514.6776733398438px;
+	line-height: 250px;
+	margin-top: -21px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 208px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#SUNRISE_caa {
+	left: 1172.609px;
+	top: 1132.614px;
+	position: absolute;
+	overflow: visible;
+	width: 660.622px;
+	height: 514.6776733398438px;
+	line-height: 250px;
+	margin-top: -21px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 208px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#MIAMI_caa {
+	left: 1011.815px;
+	top: 360.751px;
+	position: absolute;
+	overflow: visible;
+	width: 810.259px;
+	height: 778.262451171875px;
+	line-height: 300px;
+	margin-top: -25px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 250px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#GARDENS_caa {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,1279.401,223.8649) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 728.242px;
+	height: 554.81103515625px;
+	line-height: 214px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 178px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#ORLANDO_cab {
+	left: 157.911px;
+	top: 994.938px;
+	position: absolute;
+	overflow: visible;
+	width: 1026.868px;
+	height: 778.262451171875px;
+	line-height: 300px;
+	margin-top: -25px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 250px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Layer_1_cac {
+	position: absolute;
+	width: 176.773px;
+	height: 178.771px;
+	left: 1840.455px;
+	top: 1113.572px;
+	overflow: visible;
+}
+#lobster_cad {
+	position: absolute;
+	width: 286.632px;
+	height: 200.742px;
+	left: 356.358px;
+	top: 494.366px;
+	overflow: visible;
+}
+#musical-note_cae {
+	position: absolute;
+	width: 174.775px;
+	height: 174.776px;
+	left: 707.907px;
+	top: 841.92px;
+	overflow: visible;
+}
+#musical-note_copy_caf {
+	position: absolute;
+	width: 174.775px;
+	height: 174.776px;
+	left: 934.616px;
+	top: 835.928px;
+	overflow: visible;
+}
+#musical-note_copy_2_cag {
+	position: absolute;
+	width: 174.775px;
+	height: 174.776px;
+	left: 1161.326px;
+	top: 835.928px;
+	overflow: visible;
+}
+#cocktail_cah {
+	position: absolute;
+	width: 230.704px;
+	height: 288.63px;
+	left: 1556.818px;
+	top: 702.099px;
+	overflow: visible;
+}
+#drink-web_cai {
+	position: absolute;
+	width: 908px;
+	height: 1135px;
+	left: 1077px;
+	top: -165px;
+	overflow: visible;
+}
+#instagram_caj {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 1459px;
+	top: 930px;
+	overflow: visible;
+}
+#twitter_cak {
+	position: absolute;
+	width: 39px;
+	height: 39px;
+	left: 1553px;
+	top: 931px;
+	overflow: visible;
+}
+#facebook_cal {
+	position: absolute;
+	width: 44px;
+	height: 44px;
+	left: 1643px;
+	top: 926px;
+	overflow: visible;
+}
+#Follow_us__cam {
+	left: 1290px;
+	top: 932px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#words_logo_can {
+	filter: drop-shadow(0px 23px 32px rgba(0, 0, 0, 0.506));
+	position: absolute;
+	width: 783px;
+	height: 144px;
+	left: 256.413px;
+	top: 71.271px;
+	overflow: visible;
+}
+#Rectangle_8_cao {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 1051px;
+	height: 590px;
+	left: 123px;
+	top: 263px;
+	overflow: visible;
+}
